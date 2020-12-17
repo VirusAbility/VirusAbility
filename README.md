@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on IZStudio.
+- 🔭 I’m currently working on INEZE Studio.
 - 🌱 I’m currently teaching unreal engine for students.
 - 💬 Ask me about Content Creator.
 - 📫 How to reach me: Discord> Värs#6863
