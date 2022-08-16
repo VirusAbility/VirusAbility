@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on INEZE Studio.
+- 🔭 I’m currently working on INEZE.
 - 🌱 I’m currently teaching unreal engine for students.
 - 💬 Ask me about Content Creator.
 - 📫 How to reach me: Discord> LowJhin#6863
